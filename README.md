@@ -4,7 +4,6 @@
 
 
 
-<!-- ===================== INTRO ===================== -->
 
 <h1 align="center">
   Hi 👋, I'm MD Moshiour Rahaman Munna
