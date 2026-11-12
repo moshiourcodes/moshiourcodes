@@ -1,154 +1,134 @@
 
-<!-- =============== HEADER =============== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Moshiour%20Rahman&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" />
+# MD Moshiour Rahaman Munna
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moshiour+Rahman;Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Passionate+About+Building+Web+Apps;Always+Learning+New+Things" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=moshiourcodes&label=Profile%20Views&color=blueviolet&style=flat" />
+**Frontend Developer | Aspiring Full-Stack Developer**
 
 </div>
 
 ---
 
-<!-- =============== ABOUT ME =============== -->
+## `ABOUT ME`
 
-## 👨‍💻 About Me
+I'm MD Moshiour Rahaman Munna, a passionate Web Developer from Bangladesh, focused on building modern, responsive, and user-friendly web applications.
 
-Hello! I'm **Moshiour Rahman**, a passionate web developer from Bangladesh 🇧🇩.
+I work primarily with modern frontend technologies, including HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I enjoy transforming ideas into functional web experiences while focusing on clean code, responsive design, and user experience.
 
-- 💻 Interested in modern web development.
-- 🌱 Currently learning **React.js, Next.js, and TypeScript**.
-- 🚀 Building responsive and user-friendly web applications.
-- 📚 Currently working on **BookNook – Library Management System**.
-- 🎯 Working towards becoming a Full-Stack Developer.
-- ⚡ Love learning new technologies and solving problems.
+I'm continuously improving my development skills, exploring backend development with Next.js, working with MongoDB, and building real-world projects to strengthen my technical foundations.
+
+My goal is to become a skilled Full-Stack Web Developer who builds practical, scalable, and meaningful applications.
 
 ---
 
-<!-- =============== TECH STACK =============== -->
+## `TECH ARSENAL`
 
-## 🛠️ Technologies & Tools
+### Frontend
 
-### 🎨 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
-### 🔧 Tools & Platforms
+### Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,github" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
 
-<!-- =============== CURRENT FOCUS =============== -->
+## `CURRENTLY`
 
-## 📖 Currently Learning
-
-- Advanced React.js and Next.js
-- TypeScript
-- REST API Integration
-- MongoDB Database
-- Backend Development
-- Clean Code & Best Practices
-
----
-
-<!-- =============== PROJECTS =============== -->
-
-## 🚀 Featured Projects
-
-### 📚 BookNook – Library Management System
-
-A modern library management web application where users can explore books, view book details, and add new books.
-
-**Technologies Used:**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB`
+| Area | Focus |
+|---|---|
+| `BUILDING` | Modern Web Applications |
+| `LEARNING` | TypeScript • React.js • Next.js |
+| `EXPLORING` | Backend Development • REST APIs |
+| `WORKING WITH` | MongoDB • Next.js |
+| `DEPLOYING` | Vercel • GitHub |
+| `IMPROVING` | Problem Solving • Clean Code • Responsive Design |
+| `GOAL` | Becoming a Full-Stack Web Developer |
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
-
-## 📊 GitHub Statistics
+## `Contribution Streak`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moshiourcodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiourcodes&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiourcodes&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=moshiourcodes&theme=transparent&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-<!-- =============== CONTRIBUTION GRAPH =============== -->
-
-## 📈 Contribution Graph
+## `Contribution Graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiourcodes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiourcodes&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- =============== CONNECT WITH ME =============== -->
-
-## 🤝 Connect With Me
+## `GitHub Profile`
 
 <div align="center">
 
-<a href="https://github.com/moshiourcodes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=moshiourcodes&show_icons=true&theme=transparent&hide_border=true" width="49%" />
 
-<a href="https://www.linkedin.com/in/moshiour-rahaman-munna-275145380/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/moshiour.rahman.58958">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:moshiourr2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-📧 **Email:** moshiourr2@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiourcodes&layout=compact&theme=transparent&hide_border=true" width="49%" />
 
 </div>
 
 ---
 
-<!-- =============== FOOTER =============== -->
+## `CONNECT`
+
+### `Socials`
+
+<p align="left">
+  <a href="https://github.com/moshiourcodes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/moshiour-rahaman-munna-275145380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/moshiour.rahman.58958">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="mailto:moshiourr2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+**Email:** moshiourr2@gmail.com
+
+---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-**"Code. Learn. Build. Repeat."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=footer" width="100%" />
+*Always Learning. Always Building. Always Improving.*
 
 </div>
