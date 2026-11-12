@@ -63,55 +63,17 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 <table border="0">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="100%">
       <a href="https://github.com/moshiourcodes">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb" width="150" />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb" width="180" />
       </a>
       <br/>
       <b>BookNook</b><br/>
       <sub>Library Management Application</sub>
       <br/><br/>
-      <sub>A modern library application to explore books, view book details, and add new books.</sub>
+      <sub>Explore books, view book details, and add new books through a modern library application.</sub>
       <br/><br/>
       <sub>Next.js • TypeScript • Express.js • MongoDB • Tailwind CSS</sub>
-      <br/><br/>
-      <a href="https://github.com/moshiourcodes">
-        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://b14-a06-fit-log-kappa.vercel.app/">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="150" />
-      </a>
-      <br/>
-      <b>FitLog</b><br/>
-      <sub>Fitness & Workout Application</sub>
-      <br/><br/>
-      <sub>A responsive workout application for exploring exercises and organizing personal workout plans.</sub>
-      <br/><br/>
-      <sub>Next.js • React • TypeScript • Tailwind CSS</sub>
-      <br/><br/>
-      <a href="https://b14-a06-fit-log-kappa.vercel.app/">
-        <img src="https://img.shields.io/badge/Live-Demo-0EA5E9?style=for-the-badge&logo=vercel" />
-      </a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://bazar-dor-one-alpha.vercel.app/">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb" width="150" />
-      </a>
-      <br/>
-      <b>Bazar Dor</b><br/>
-      <sub>Bangladesh Market Price Tracker</sub>
-      <br/><br/>
-      <sub>A web application for exploring essential product prices and comparing market information in Bangladesh.</sub>
-      <br/><br/>
-      <sub>Next.js • TypeScript • Tailwind CSS • MongoDB</sub>
-      <br/><br/>
-      <a href="https://bazar-dor-one-alpha.vercel.app/">
-        <img src="https://img.shields.io/badge/Live-Demo-0EA5E9?style=for-the-badge&logo=vercel" />
-      </a>
     </td>
   </tr>
 </table>
@@ -158,7 +120,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moshiourcodes&theme=github_dark" alt="Moshiour's GitHub repository stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moshiourcodes&theme=github_dark" alt="Moshiour's GitHub language statistics" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moshiourcodes&theme=github_dark" alt="Moshiour's repository language statistics" width="49%" />
 </p>
 
 ---
