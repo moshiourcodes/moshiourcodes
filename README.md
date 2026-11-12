@@ -1,134 +1,133 @@
 
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-                                                 # MD Moshiour Rahaman Munna
+# 👋 Hi, I'm Moshiour Rahman
 
-**Frontend Developer | Aspiring Full-Stack Developer**
+### 💻 Frontend Developer | Aspiring Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Things" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-                                                         ## `ABOUT ME`
+<!-- ================= ABOUT ME ================= -->
 
-I'm MD Moshiour Rahaman Munna, a passionate Web Developer from Bangladesh, focused on building modern, responsive, and user-friendly web applications.
+## 🚀 About Me
 
-I work primarily with modern frontend technologies, including HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I enjoy transforming ideas into functional web experiences while focusing on clean code, responsive design, and user experience.
-
-I'm continuously improving my development skills, exploring backend development with Next.js, working with MongoDB, and building real-world projects to strengthen my technical foundations.
-
-My goal is to become a skilled Full-Stack Web Developer who builds practical, scalable, and meaningful applications.
-
----
-
-                                                                  ## `TECH ARSENAL`
-
-                                                                      ### Frontend
-
-<p>
-                                           <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-                                                          <img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
-
-### Database
-
-<p>
-                                                            <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,github" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+- 👨‍💻 I'm a passionate Web Developer from Bangladesh.
+- 🌱 Currently learning **React.js, Next.js & TypeScript**.
+- 💡 Interested in building modern and responsive web applications.
+- 🔭 Currently working on **BookNook – Library Management Application**.
+- 🎯 My goal is to become a skilled Full-Stack Developer.
+- ⚡ I enjoy learning new technologies and solving problems.
 
 ---
 
-## `CURRENTLY`
+<!-- ================= TECH STACK ================= -->
 
-| Area | Focus |
-|---|---|
-| `BUILDING` | Modern Web Applications |
-| `LEARNING` | TypeScript • React.js • Next.js |
-| `EXPLORING` | Backend Development • REST APIs |
-| `WORKING WITH` | MongoDB • Next.js |
-| `DEPLOYING` | Vercel • GitHub |
-| `IMPROVING` | Problem Solving • Clean Code • Responsive Design |
-| `GOAL` | Becoming a Full-Stack Web Developer |
+## 🛠️ Languages & Technologies
 
----
-
-## `Contribution Streak`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=moshiourcodes&theme=transparent&hide_border=true" width="90%" />
-
-</div>
-
----
-
-## `Contribution Graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiourcodes&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## `GitHub Profile`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moshiourcodes&show_icons=true&theme=transparent&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiourcodes&layout=compact&theme=transparent&hide_border=true" width="49%" />
-
-</div>
-
----
-
-## `CONNECT`
-
-### `Socials`
+### Frontend Development
 
 <p align="left">
-  <a href="https://github.com/moshiourcodes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/moshiour-rahaman-munna-275145380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.facebook.com/moshiour.rahman.58958">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="mailto:moshiourr2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-**Email:** moshiourr2@gmail.com
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+</p>
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 📚 Current Focus
+
+- Building real-world projects with Next.js.
+- Improving TypeScript and React skills.
+- Learning backend development and REST APIs.
+- Working with MongoDB and database integration.
+- Writing clean and maintainable code.
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 💻 Featured Projects
+
+### 📚 BookNook – Library Management System
+
+A modern library application for exploring books, viewing book details, and adding new books.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Express.js, MongoDB.
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-*Always Learning. Always Building. Always Improving.*
+### 💙 Thanks for visiting my profile!
+
+**"Keep Learning, Keep Building, Keep Growing."**
 
 </div>
