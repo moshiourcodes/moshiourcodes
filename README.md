@@ -13,7 +13,7 @@
 
 ---
 
-## `01 // ABOUT ME`
+## ` ABOUT ME`
 
 I'm **MD Moshiour Rahaman Munna**, a passionate Web Developer from Bangladesh, focused on building practical, responsive, and user-friendly web applications.
 
@@ -27,7 +27,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `02 // TECH ARSENAL`
+## `TECH ARSENAL`
 
 ### Frontend
 <p>
@@ -56,7 +56,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `03 // Featured PROJECTS`
+## ` Featured PROJECTS`
 
 <div align="center">
 <br/>
@@ -82,7 +82,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `04 // CURRENTLY`
+## ` CURRENTLY`
 
 | Area        | Focus                                               |
 | ----------- | --------------------------------------------------- |
@@ -96,7 +96,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `05 // Contribution Streak`
+## ` Contribution Streak`
 
 <div align="center">
   <img width="69%" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiourcodes&theme=tokyonight&hide_border=true" />
@@ -112,7 +112,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `07 // GitHub Profile`
+## ` GitHub Profile`
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moshiourcodes&theme=github_dark" alt="Moshiour's GitHub contribution summary" width="100%" />
@@ -125,7 +125,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `08 // CONNECT`
+## ` CONNECT`
 
 <div align="center">
 
@@ -165,6 +165,6 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ### `BUILD • LEARN • GROW • REPEAT`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer&text=MOSHIUORCODES&fontColor=D4AF37&fontSize=24&animation=fadeIn&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer&text=MOSHIOURCODES&fontColor=D4AF37&fontSize=24&animation=fadeIn&fontAlignY=70" />
 
 </div>
