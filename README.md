@@ -1,16 +1,4 @@
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=210&section=header&text=MD%20Moshiour%20Rahaman%20Munna&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=16&descAlignY=58" />
-
-<br/>
-
-<a href="https://github.com/moshiourcodes">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;JavaScript+%E2%80%A2+MongoDB+%E2%80%A2+Git+%E2%80%A2+GitHub;Building+modern+and+responsive+web+apps" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 ---
 
 ## `01 // Profile Info`
