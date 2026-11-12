@@ -13,37 +13,7 @@
 
 ---
 
-## `01 // Profile Info`
-
-<table
-<tr>
-<td width="42%" align="center">
-
-<img src="./hxni-ascii.svg" width="370" />
-
-</td>
-
-<td width="58%" align="center">
-
-<img src="./info-card.svg" width="490" />
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="860" />
-
-</div>
-
----
-
-## `03 // ABOUT ME`
+## `01 // ABOUT ME`
 
 I'm **MD Moshiour Rahaman Munna**, a passionate Web Developer from Bangladesh, focused on building practical, responsive, and user-friendly web applications.
 
@@ -57,7 +27,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `04 // TECH ARSENAL`
+## `02 // TECH ARSENAL`
 
 ### Frontend
 <p>
@@ -86,7 +56,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `05 // Featured PROJECTS`
+## `03 // Featured PROJECTS`
 
 <div align="center">
 <br/>
@@ -112,7 +82,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `06 // CURRENTLY`
+## `04 // CURRENTLY`
 
 | Area        | Focus                                               |
 | ----------- | --------------------------------------------------- |
@@ -126,17 +96,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `07 // LeetCode Statistics`
-
-<div align="center">
-
-<p>LeetCode profile statistics will be added when my LeetCode profile is available.</p>
-
-</div>
-
----
-
-## `08 // Contribution Streak`
+## `05 // Contribution Streak`
 
 <div align="center">
   <img width="69%" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiourcodes&theme=tokyonight&hide_border=true" />
@@ -144,7 +104,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `09 // Contribution Graph`
+## `06 // Contribution Graph`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/moshiourcodes/moshiourcodes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
@@ -152,7 +112,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `10 // GitHub Profile`
+## `07 // GitHub Profile`
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moshiourcodes&theme=github_dark" alt="Moshiour's GitHub contribution summary" width="100%" />
@@ -165,7 +125,7 @@ My goal is to become a skilled Full-Stack Developer and build software that is p
 
 ---
 
-## `11 // CONNECT`
+## `08 // CONNECT`
 
 <div align="center">
 
