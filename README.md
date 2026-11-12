@@ -1,133 +1,154 @@
 
-<!-- ================= HEADER ================= -->
+<!-- =============== HEADER =============== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Moshiour Rahman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Moshiour%20Rahman&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" />
 
-### 💻 Frontend Developer | Aspiring Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moshiour+Rahman;Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Passionate+About+Building+Web+Apps;Always+Learning+New+Things" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Things" alt="Typing SVG" />
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=moshiourcodes&label=Profile%20Views&color=blueviolet&style=flat" />
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- =============== ABOUT ME =============== -->
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 I'm a passionate Web Developer from Bangladesh.
-- 🌱 Currently learning **React.js, Next.js & TypeScript**.
-- 💡 Interested in building modern and responsive web applications.
-- 🔭 Currently working on **BookNook – Library Management Application**.
-- 🎯 My goal is to become a skilled Full-Stack Developer.
-- ⚡ I enjoy learning new technologies and solving problems.
+Hello! I'm **Moshiour Rahman**, a passionate web developer from Bangladesh 🇧🇩.
 
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 🛠️ Languages & Technologies
-
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
-</p>
+- 💻 Interested in modern web development.
+- 🌱 Currently learning **React.js, Next.js, and TypeScript**.
+- 🚀 Building responsive and user-friendly web applications.
+- 📚 Currently working on **BookNook – Library Management System**.
+- 🎯 Working towards becoming a Full-Stack Developer.
+- ⚡ Love learning new technologies and solving problems.
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
+<!-- =============== TECH STACK =============== -->
 
-## 📚 Current Focus
+## 🛠️ Technologies & Tools
 
-- Building real-world projects with Next.js.
-- Improving TypeScript and React skills.
-- Learning backend development and REST APIs.
-- Working with MongoDB and database integration.
-- Writing clean and maintainable code.
+### 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- =============== CURRENT FOCUS =============== -->
 
-## 💻 Featured Projects
+## 📖 Currently Learning
+
+- Advanced React.js and Next.js
+- TypeScript
+- REST API Integration
+- MongoDB Database
+- Backend Development
+- Clean Code & Best Practices
+
+---
+
+<!-- =============== PROJECTS =============== -->
+
+## 🚀 Featured Projects
 
 ### 📚 BookNook – Library Management System
 
-A modern library application for exploring books, viewing book details, and adding new books.
+A modern library management web application where users can explore books, view book details, and add new books.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Express.js, MongoDB.
+**Technologies Used:**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB`
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- =============== GITHUB STATS =============== -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moshiourcodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiourcodes&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiourcodes&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- =============== CONTRIBUTION GRAPH =============== -->
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiourcodes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- =============== CONNECT WITH ME =============== -->
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/moshiourcodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/moshiour-rahaman-munna-275145380/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/moshiour.rahman.58958">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:moshiourr2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📧 **Email:** moshiourr2@gmail.com
+
+</div>
 
 ---
+
+<!-- =============== FOOTER =============== -->
 
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
-**"Keep Learning, Keep Building, Keep Growing."**
+**"Code. Learn. Build. Repeat."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=footer" width="100%" />
 
 </div>
