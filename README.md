@@ -21,7 +21,7 @@ My goal is to become a skilled Full-Stack Web Developer who builds practical, sc
 
 ---
 
-## `TECH ARSENAL`
+                                                                  ## `TECH ARSENAL`
 
 ### Frontend
 
